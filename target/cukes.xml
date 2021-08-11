@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="4" time="0.191">
+    <testcase classname="Facebook LoginPage" name="Entering Username and Pwd" time="0.018">
+        <system-out><![CDATA[Given Facebook homepage is displayed........................................passed
+When login in the application with "user" and "pwd" and click login button..passed
+And home page is populated..................................................passed
+Then validate sharan and 12.................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Facebook LoginPage" name="Entering Username and Pwd 2" time="0">
+        <system-out><![CDATA[Given Facebook homepage is displayed........................................passed
+When login in the application with "user" and "pwd" and click login button..passed
+And home page is populated..................................................passed
+Then validate dhina and 12..................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Facebook LoginPage" name="Entering Username and Pwd 3" time="0.001">
+        <system-out><![CDATA[Given Facebook homepage is displayed........................................passed
+When login in the application with "user" and "pwd" and click login button..passed
+And home page is populated..................................................passed
+Then validate jaashvi and 15................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Facebook LoginPage" name="Pipeline checking" time="0.001">
+        <system-out><![CDATA[When checking pipepline datattables.........................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
